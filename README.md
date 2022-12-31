@@ -4,3 +4,7 @@
 #### https://arxiv.org/abs/2006.08765
 ### 基于机器阅读理解框架的命名实体识别方法
 #### https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/106184135
+### 基于跨度的命名实体识别
+#### https://ecai2020.eu/papers/1283_paper.pdf
+### 命名实体识别的标签平滑
+#### https://arxiv.org/pdf/2204.12031.pdf
