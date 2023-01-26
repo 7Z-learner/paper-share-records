@@ -8,3 +8,6 @@
 #### https://ecai2020.eu/papers/1283_paper.pdf
 ### 命名实体识别的标签平滑
 #### https://arxiv.org/pdf/2204.12031.pdf
+### GPT模型
+#### https://github.com/karpathy/nanoGPT
+#### https://www.cnblogs.com/zhongzhaoxie/articles/13064404.html
